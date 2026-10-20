@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://e-hentai.org";
+const TARGET = "https://wiki.warthunder.com";
 
 
 /*
@@ -84,9 +84,9 @@ function isAllowedHost(hostname) {
     */
 
     if (
-        hostname === "ehgt.org" ||
-        hostname.startsWith(
-            ".ehgt.org"
+        hostname === "warthunder.com" ||
+        hostname.endsWith(
+            ".warthunder.com"
         )
     ) {
         return true;
@@ -99,10 +99,10 @@ function isAllowedHost(hostname) {
 
     if (
         hostname ===
-            "zurswtyclg.hath.network" ||
+            "encyclopedia.warthunder.com" ||
 
-        hostname.startsWith(
-            ".zurswtyclg.hath.network"
+        hostname.endsWith(
+            ".encyclopedia.warthunder.com"
         )
     ) {
         return true;

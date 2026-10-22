@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://mem.rip/kahoot/";
+const TARGET = "https://wiki.warthunder.com";
 
 
 /*

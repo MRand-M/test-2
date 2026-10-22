@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://quizit.online/services/kahoot/bots";
+const TARGET = "https://mem.rip/kahoot/";
 
 
 /*

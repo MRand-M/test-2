@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://discord.com";
+const TARGET = "https://wiki.warthunder.com";
 
 
 /*

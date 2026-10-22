@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://wiki.warthunder.com";
+const TARGET = "https://quizit.online/services/kahoot/bots";
 
 
 /*

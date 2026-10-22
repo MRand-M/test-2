@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://mubuild.com";
+const TARGET = "https://mcbuild.com";
 
 
 /*

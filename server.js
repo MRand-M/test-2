@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://https://lobotomycorporation.wiki.gg/";
+const TARGET = "https://lobotomycorporation.wiki.gg/";
 
 
 /*

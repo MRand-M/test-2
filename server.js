@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://apps.microsoft.com/home?hl=en-US&gl=AU";
+const TARGET = "https://apps.microsoft.com";
 
 
 /*

@@ -84,9 +84,9 @@ function isAllowedHost(hostname) {
     */
 
     if (
-        hostname === "warthunder.com" ||
+        hostname === "microsoft.com" ||
         hostname.endsWith(
-            ".warthunder.com"
+            ".microsoft.com"
         )
     ) {
         return true;
@@ -99,10 +99,10 @@ function isAllowedHost(hostname) {
 
     if (
         hostname ===
-            "encyclopedia.warthunder.com" ||
+            "xboxservices.com" ||
 
         hostname.endsWith(
-            ".encyclopedia.warthunder.com"
+            ".xboxservices.com"
         )
     ) {
         return true;

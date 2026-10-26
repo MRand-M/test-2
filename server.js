@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://apps.microsoft.com";
+const TARGET = "https://minecraft.com";
 
 
 /*

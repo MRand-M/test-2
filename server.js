@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://xbox.com";
+const TARGET = "https://apps.microsoft.com";
 
 
 /*

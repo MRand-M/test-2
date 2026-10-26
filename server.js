@@ -84,9 +84,9 @@ function isAllowedHost(hostname) {
     */
 
     if (
-        hostname === "microsoft.com" ||
+        hostname === "minecraft.net" ||
         hostname.endsWith(
-            ".microsoft.com"
+            ".minecraft.net"
         )
     ) {
         return true;

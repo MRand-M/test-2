@@ -99,10 +99,10 @@ function isAllowedHost(hostname) {
 
     if (
         hostname ===
-            "xboxservices.com" ||
+            "xboxlive.com" ||
 
         hostname.endsWith(
-            ".xboxservices.com"
+            ".xboxlive.com"
         )
     ) {
         return true;

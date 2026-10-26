@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://minecraft.net";
+const TARGET = "https://launcher.mojang.com/download/MinecraftInstaller.exe?ref=mcnet";
 
 
 /*

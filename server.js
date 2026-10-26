@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://lobotomycorporation.wiki.gg/";
+const TARGET = "https://apps.microsoft.com/home?hl=en-US&gl=AU";
 
 
 /*

@@ -13,7 +13,7 @@ TARGET
 ==========================================================
 */
 
-const TARGET = "https://launcher.mojang.com/download/MinecraftInstaller.exe?ref=mcnet";
+const TARGET = "https://wiki.warthunder.com";
 
 
 /*
@@ -84,9 +84,9 @@ function isAllowedHost(hostname) {
     */
 
     if (
-        hostname === "minecraft.net" ||
+        hostname === "warthunder.com" ||
         hostname.endsWith(
-            ".minecraft.net"
+            ".warthunder.com"
         )
     ) {
         return true;
@@ -99,10 +99,10 @@ function isAllowedHost(hostname) {
 
     if (
         hostname ===
-            "xboxlive.com" ||
+            "encyclopedia.warthunder.com" ||
 
         hostname.endsWith(
-            ".xboxlive.com"
+            ".encyclopedia.warthunder.com"
         )
     ) {
         return true;
